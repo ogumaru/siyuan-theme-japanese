@@ -1,16 +1,16 @@
 {
-  "name": "theme-sample",
-  "author": "Vanessa",
-  "url": "https://github.com/siyuan-note/theme-sample",
-  "version": "0.0.3",
+  "name": "Japanese Theme",
+  "author": "ogumaru",
+  "url": "https://github.com/ogumaru/siyuan-theme-japanese",
+  "version": "0.0.1",
   "minAppVersion": "2.8.8",
   "displayName": {
-    "default": "Theme Sample",
-    "zh_CN": "主题示例"
+    "default": "Japanese Theme",
+    "zh_CN": "日本主题"
   },
   "description": {
-    "default": "This is a theme sample",
-    "zh_CN": "这是一个主题示例"
+    "default": "This is a theme for displaying Kanji characters in Japanese script.",
+    "zh_CN": "这是一个用于显示日本文字的汉字的主题。"
   },
   "readme": {
     "default": "README.md",
@@ -21,10 +21,10 @@
     "patreon": "",
     "github": "",
     "custom": [
-      "https://ld246.com/sponsor"
     ]
   },
   "modes": [
-    "light"
+    "light",
+    "dark"
   ]
 }
